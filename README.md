@@ -1,3 +1,6 @@
+![Nobel_Prize](https://github.com/RashidTobrazune/Data_science_project_minial_nobel_prize_winners/assets/150378293/64c71e9e-3c74-4a7d-a42b-2dac24cf9841)
+
+
 # Data_science_project_minial_nobel_prize_winners
 The Nobel Prize has been among the most prestigious international awards since 1901. Each year, awards are bestowed in chemistry, literature, physics, physiology or medicine, economics, and peace. 
 
